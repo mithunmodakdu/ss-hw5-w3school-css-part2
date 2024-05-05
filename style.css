@@ -1,0 +1,73 @@
+.makeinline{
+    display:inline
+}
+
+.makeinlineblock{
+    display: inline-block;
+}
+
+.makeblock{
+    display: block;
+}
+
+.makenone{
+    display: none;
+}
+
+.header{
+    height: 70px;
+    background-color: aqua;
+}
+.container{
+    overflow: hidden;
+    
+}
+.blog{
+    width: 70%;
+    height: 200px;
+    background-color: bisque;
+    float: left;
+}
+.contact{
+    width: 30%;
+    height: 200px;
+    background-color: blue;
+    float: right;
+}
+.footer{
+    height: 70px;
+    background-color: gray;
+}
+
+
+/* This is comment */
+
+
+  /* background-color, opacity */
+  div.first {
+    background-color: green;
+    opacity: 0.1;
+  }
+  
+  div.second {
+    background-color: green;
+    opacity: 0.3;
+  }
+  
+  div.third {
+    background-color: green;
+    opacity: 0.6;
+  }
+
+  div.fourth {
+    background: rgba(0, 128, 0, 0.1);
+  }
+  
+  div.fifth {
+    background: rgba(0, 128, 0, 0.3);
+  }
+  
+  div.sixth {
+    background: rgba(0, 128, 0, 0.6);
+  }
+
